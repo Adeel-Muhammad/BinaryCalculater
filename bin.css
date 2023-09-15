@@ -2,3 +2,11 @@ body{
 
     width:33%
 }
+
+#res{
+
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
